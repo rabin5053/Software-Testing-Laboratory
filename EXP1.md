@@ -84,7 +84,16 @@ switch() ~~
 
 
 ### Output:
+![Screenshot 2025-03-13 085917](https://github.com/user-attachments/assets/6bf04dad-eaff-4f02-8875-049be6c85606)
 
+![Screenshot 2025-03-13 090624](https://github.com/user-attachments/assets/22828ef6-d205-49df-82ee-340550875332)
+
+
+![Screenshot 2025-03-13 090913](https://github.com/user-attachments/assets/56224cc6-df8e-4768-aabf-494c367ddb4c)
+
+![Screenshot 2025-03-13 091031](https://github.com/user-attachments/assets/727e0dbc-9ef8-4fb9-826f-0f148628c324)
+
+![Screenshot 2025-03-13 091413](https://github.com/user-attachments/assets/a6087054-83c1-4887-ba20-d6fc8abc8118)
 
 
 

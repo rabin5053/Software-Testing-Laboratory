@@ -1,6 +1,6 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 10/04/2025                                                                           
+### REGISTER NUMBER : 212224230213
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
 
@@ -17,6 +17,28 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 ### Program:
 
+def binary_search(arr, x):  
+         low = 0 
+    high = len(arr) - 1 mid = 0 
+           while low <= high: 
+               mid = (high + low) // 2  
+               if arr[mid] < x: 
+                   low = mid + 1 elif arr[mid] > x: 
+               high = mid – 1 
+                   else: 
+           return -1 
+ 
+arr = [ 2, 3, 4, 10,40 ] 
+x = input(“Enter the element to be searched: ”);  
+try: 
+    x = int(x) 
+    result = binary_search(arr, x)  
+    if result != -1: 
+          print("Element is present at index",str(result)) 
+    else: 
+          print("Element is not present in array") 
+       except: 
+    print(“Enter a valid input!”)
 
 
 
@@ -32,7 +54,12 @@ Write a python program to check the number is Armstrong number or not and inspec
 ### Output:
 
 
+![Screenshot 2025-04-10 083312](https://github.com/user-attachments/assets/51f0d205-320c-42e0-8cb2-702ed8d4f2a7)
+![Screenshot 2025-04-10 083337](https://github.com/user-attachments/assets/eb74831b-457a-4899-a4a2-b8661eebd875)
+![Screenshot 2025-04-10 083449](https://github.com/user-attachments/assets/31863fcf-f6e3-4159-971f-b686dc87bcad)
+![Screenshot 2025-04-10 083502](https://github.com/user-attachments/assets/21e8c583-31d8-4ded-aa4d-c0f951023d07)
 
+![Screenshot 2025-04-10 083513](https://github.com/user-attachments/assets/44a593f8-1138-4204-b278-e9e6c842aeb6)
 
 
 
